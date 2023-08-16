@@ -3,7 +3,7 @@
 </script>
 
 <div
-  class="flex h-screen w-full flex-col items-center justify-center gap-4 bg-gradient-to-b from-indigo-900 to-indigo-950"
+  class="flex h-screen w-full flex-col items-center justify-center gap-4 bg-gradient-to-b from-orange-900 to-orange-950"
 >
   <h1>Welcome to SvelteKit!</h1>
   <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
